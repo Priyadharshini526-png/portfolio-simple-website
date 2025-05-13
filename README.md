@@ -17,10 +17,6 @@ index.html – Home page
  
 contact.html – Contact page
 
-#How to view
-
-You can view My Portfolio by visiting[Link] feel free to explore the content ang get in touch!
-
 #contributing
 
 If you to like to contribute improvement,please feel free to open an issues or create a pull request ,Your feedback is greatly appreciated.
